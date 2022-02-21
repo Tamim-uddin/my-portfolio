@@ -17,7 +17,7 @@ const Portfolios = () => {
             <Typography className='container-mider'  variant="h4" gutterBottom component="div" sx={{fontFamily: 'eurostile, sans-serif', color: '#000', fontWeight: '800', mt: '120px'}}>
                 My Recent Work
             </Typography>
-             <p style={{marginBottom: '80px'}}>Here are a few design projects I've worked on recently. Want to see more? <a style={{textDecoration: 'none'}} href="mailto:muhammadtamimuddin@gmail.com">Email me</a>.</p>
+             <p style={{marginBottom: '80px'}}>Here are a few design projects I've worked on recently. Want to see more? <a style={{textDecoration: 'none'}} href="mailto:muhammadtamimuddin@gmail.com">Contact me</a>.</p>
             </div>
             <Grid container spacing={2}>
             {
