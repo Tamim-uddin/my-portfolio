@@ -7,7 +7,7 @@ const portfolio = [
     },
     {
         id: 2,
-        name: 'Oculus Sunglasses',
+        name: 'Sunstore',
         img: 'https://cdn.pixabay.com/photo/2017/09/01/21/53/blue-2705642_960_720.jpg',
         link: 'https://oculussunglasses-228cb.web.app/'
     },
